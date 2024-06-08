@@ -13,7 +13,7 @@ making it suitable for protecting sensitive data. This project was developed as 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
+
 
 ## Installation
 To use this tool, you need to have Python installed on your system. Follow these steps to install the required dependencies and set up the project:
